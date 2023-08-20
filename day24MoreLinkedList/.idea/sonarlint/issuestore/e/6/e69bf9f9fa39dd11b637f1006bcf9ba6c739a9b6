@@ -1,0 +1,9 @@
+
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ´ª»üÿÿÿÿ8Ñ¨†ý 1
+
+java:S41653"bRemove this useless assignment; "head" already holds the assigned value along all execution paths.(¤ßÊ¢8ÓÇ­ý 1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(û‚Õúüÿÿÿÿ8Âø‘ý 1
+L
+java:S1197+"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8â¨†ý 1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18å¨†ý 1

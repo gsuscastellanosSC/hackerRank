@@ -1,0 +1,35 @@
+
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÏ«¥8”õâ‚¡1
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·‡8”õâ‚¡1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ±Ü øÿÿÿÿ8”õâ‚¡1
+}
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ans".(Ú©¿ğıÿÿÿÿ8•õâ‚¡1
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "index".(ìüà·8•õâ‚¡1
+x
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ans".(Š½ò8•õâ‚¡1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Åòéùÿÿÿÿ8§õâ‚¡1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØƒ³ùÿÿÿÿ8§õâ‚¡1
+o	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓñøÓşÿÿÿÿ8§õâ‚¡1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÎÅ²‚ûÿÿÿÿ8¨õâ‚¡1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØƒ³ùÿÿÿÿ8¨õâ‚¡1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓñøÓşÿÿÿÿ8¨õâ‚¡1
+V
+java:S3400"9Remove this method and declare a constant for this value.(”·³›8¨õâ‚¡1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(‘­æü8¨õâ‚¡1
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØƒ³ùÿÿÿÿ8¨õâ‚¡1
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¨ë›8©õâ‚¡1
+o	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âà¼şÿÿÿÿ8«õâ‚¡1
+W
+java:S1854:":Remove this useless assignment to local variable "result".(ÒàÔİ8«õâ‚¡1
+H
+java:S1481:"+Remove this unused "result" local variable.(ÒàÔİ8«õâ‚¡1
+i	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥öÍL8¬õâ‚¡1
+K
+java:S1940K")Use the opposite operator ("!=") instead.(÷¦®ûÿÿÿÿ8¬õâ‚¡1
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïƒ¡Š8­õâ‚¡1
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ùàèü8®õâ‚¡1

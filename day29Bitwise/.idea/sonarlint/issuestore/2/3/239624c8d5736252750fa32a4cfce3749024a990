@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™˜Úåûÿÿÿÿ8²Ğ¼†¡1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™˜Úåûÿÿÿÿ8³Ğ¼†¡1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ôƒ°Ìûÿÿÿÿ8¥¦¬†¡1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8œÃÍ†¡1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8œÃÍ†¡1
